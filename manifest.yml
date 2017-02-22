@@ -1,0 +1,8 @@
+applications:
+- path: target/JavaHelloWorldApp.war
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: ung-dung-ban-hang-4
+  host: ung-dung-ban-hang-4
+  disk_quota: 1024M
